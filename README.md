@@ -3,7 +3,7 @@ Hi, i'm Paweł
 Fullstack web developer with engineer degree in computer science
 -------------
 
-I've been programming for 6 years. Since 2 years i'm mainly focused on frontend. I really love css and cats . I do enjoy working in teams and researching newest web technology.
+I've been programming for 6 years. Since 2 years i'm mainly focused on frontend. I really love css and 😽. I do enjoy working in teams and researching newest web technology.
 
 🌍  I'm based in Poland, Wrocław
 
