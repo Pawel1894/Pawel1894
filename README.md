@@ -1,10 +1,10 @@
-Hi 👋 My name is Paweł
+Hi, i'm Paweł
 ======================
-Computer science engineer & Fullstack web developer 
+Fullstack web developer with engineer degree in computer science
 -------------
 
 I've been programming for 6 years. Since 2 years i'm mainly focused on frontend because i really love css and react. I do enjoy working in teams and researching newest web technology.
-🌍  I'm based in Wrocław
+🌍  I'm based in Poland, Wrocław
 ✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)* 
 🧠  I'm learning nest.js, vitest
 
