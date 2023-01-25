@@ -7,7 +7,7 @@ I've been programming for 6 years. Since 2 years i'm mainly focused on frontend.
 
 🌍  I'm based in Poland, Wrocław
 
-✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)* 
+✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
 
 🧠  I'm learning nest.js, vitest
 
