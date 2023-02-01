@@ -9,7 +9,7 @@ I've been programming for 6 years. Since 2 years i'm mainly focused on frontend.
 
 ✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
 
-🧠  I'm learning nest.js, vitest
+🧠  I'm learning nest.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel1894)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Pawel1894))
 
