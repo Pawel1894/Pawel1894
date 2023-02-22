@@ -9,7 +9,7 @@ I have been programming for 6 years. For the past 2 years I have been focusing m
 
 ✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
 
-🧠  I'm learning nest.js
+🧠  I'm learning next.js
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel1894)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Pawel1894))
 
