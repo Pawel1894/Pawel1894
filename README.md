@@ -1,6 +1,6 @@
 Hi, i'm Paweł
 ======================
-Fullstack web developer with engineer degree in computer science
+Software engineer
 -------------
 
 I have been programming for 6 years. For the past 2 years I have been focusing mainly on frontends. I love css and 😽. I enjoy working in a team and experimenting with web development tools.
