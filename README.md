@@ -1,9 +1,7 @@
 Hi, i'm Paweł
-======================
-Software engineer
 -------------
 
-I have been programming for 6 years. For the past 2 years I have been focusing mainly on frontends. I love css and 😽. I enjoy working in a team and experimenting with web development tools.
+I have been programming since 2016. For the past few years I have been focusing mainly on frontend. I love css and 😽. I enjoy working in a team and experimenting with web development tools.
 
 🌍  I'm based in Poland, Wrocław
 
