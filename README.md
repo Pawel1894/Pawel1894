@@ -1,13 +1,11 @@
 Hi, i'm Paweł
 -------------
 
-I have been programming since 2016. For the past few years I have been focusing mainly on frontend. I love css and 😽. I enjoy working in a team and experimenting with web development tools.
+I have been programming since 2016. I love exploring and creating new stuff using modern web tools. I'm fullstack developer but more focused on enhancing my frontend skills. The two things I enjoy the most when creating software is tailwind and react. I own three super cute cats and crested gecko 🦎.
 
-🌍  I'm based in Poland, Wrocław
+🌍  I'm based in Poland, Wrocław
 
-✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
-
-🧠  I'm currently getting along with t3 stack ;) 
+✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawel1894)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Pawel1894))
 
