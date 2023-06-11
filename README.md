@@ -1,9 +1,11 @@
-Hi, i'm Paweł
+Hi, I'm Paweł!
 -------------
 
-I have been programming since 2016. I love exploring and creating new stuff using modern web tools. I'm fullstack developer but more focused on enhancing my frontend skills. The two things I enjoy the most when creating software is tailwind and react. I own three super cute cats and crested gecko 🦎.
+I'm a fullstack developer, concentrating more on mastering my frontend skills. Ever since I started programming in 2016, I’ve been exploring and creating new stuff using modern web tools. My favorites are Tailwind and React.
 
-🌍  I'm based in Poland, Wrocław
+I also have three super cute cats 🐱 and a crested gecko 🦎.
+
+🌍  Based in Wrocław, Poland
 
 ✉️  You can contact me at [pawepohl@gmail.com](mailto:pawepohl@gmail.com)
 
