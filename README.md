@@ -1,9 +1,8 @@
 Hi, I'm Paweł!
 -------------
 
-I'm a fullstack developer, concentrating more on mastering my frontend skills. Ever since I started programming in 2016, I’ve been exploring and creating new stuff using modern web tools. My favorites are Tailwind and React.
+I'm a fullstack developer, concentrating more on mastering my frontend skills. Ever since I started programming in 2016, I’ve been exploring and creating new stuff using modern web tools.
 
-I also have three super cute cats 🐱 and a crested gecko 🦎.
 
 🌍  Based in Wrocław, Poland
 
