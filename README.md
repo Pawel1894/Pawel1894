@@ -1,7 +1,7 @@
 Hi, I'm Paweł!
 -------------
 
-I'm a fullstack developer, concentrating more on mastering my frontend skills. Ever since I started programming in 2016, I’ve been exploring and creating new stuff using modern web tools.
+I'm a software engineer, focused more towards frontend. Ever since I started programming in 2016, I’ve been exploring and creating new stuff using modern web tools.
 
 
 🌍  Based in Wrocław, Poland
